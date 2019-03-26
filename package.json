@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Louis-Amas/ps6-server.git"
+    "url": "git+https://github.com/JulienMolinier/ps6-server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Louis-Amas/ps6-server/issues"
+    "url": "https://github.com/JulienMolinier/ps6-server/issues"
   },
-  "homepage": "https://github.com/Louis-Amas/ps6-server#readme",
+  "homepage": "https://github.com/JulienMolinier/ps6-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4",
