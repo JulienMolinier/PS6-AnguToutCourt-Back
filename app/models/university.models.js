@@ -16,4 +16,6 @@ module.exports = new BaseModel('University', {
     .required(),
   description: Joi.string()
     .required(),
+  rate: Joi.number(),
+  nbReviews: Joi.number(),
 });
