@@ -1,13 +1,13 @@
 const { Router } = require('express');
-const { University } = require('../../models');
+const { Profile } = require('../../models');
 
 const router = new Router();
 router.get('/', (req, res) => {
   try {
     if (req.query.q) {
-      res.status(200).json(University.search(req.query.q));
+      res.status(200).json(Profile.search(req.query.q));
     } else {
-      res.status(200).json(University.get());
+      res.status(200).json(Profile.get());
     }
   } catch (err) {
     res.status(500).json(err);
@@ -16,7 +16,7 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
   try {
-    res.status(200).json(University.getById(req.params.id));
+    res.status(200).json(Profile.getById(req.params.id));
   } catch (err) {
     if (err.name === 'NotFoundError') {
       res.status(404).end();
@@ -28,8 +28,8 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   try {
-    const university = University.create(req.body);
-    res.status(201).json(university);
+    const profile = Profile.create(req.body);
+    res.status(201).json(profile);
   } catch (err) {
     if (err.name === 'ValidationError') {
       res.status(400).json(err.extra);
@@ -41,7 +41,7 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
   try {
-    res.status(200).json(University.update(req.params.id, req.body));
+    res.status(200).json(Profile.update(req.params.id, req.body));
   } catch (err) {
     if (err.name === 'NotFoundError') {
       res.status(404).end();
@@ -55,7 +55,7 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   try {
-    University.delete(req.params.id);
+    Profile.delete(req.params.id);
     res.status(204).end();
   } catch (err) {
     if (err.name === 'NotFoundError') {
