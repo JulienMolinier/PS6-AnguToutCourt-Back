@@ -2,7 +2,7 @@ const Joi = require('joi');
 const BaseModel = require('../utils/base-model.js');
 
 module.exports = new BaseModel('Review', {
-  StudentId: Joi.number()
+  email: Joi.string()
     .required(),
   Description: Joi.string()
     .required(),

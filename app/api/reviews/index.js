@@ -1,10 +1,11 @@
 const { Router } = require('express');
 const { Review, Profile } = require('../../models');
+const email = require('../profiles/index.js');
 
 const router = new Router();
 
 function attachStudent(review) {
-  return Object.assign({}, review, { profile: Profile.getById(review.StudentId) });
+  return Object.assign({}, review, { profile: email.getByEmail(review.email) });
 }
 
 router.get('/', (req, res) => {

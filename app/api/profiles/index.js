@@ -2,6 +2,7 @@ const { Router } = require('express');
 const { Profile } = require('../../models');
 
 const router = new Router();
+
 router.get('/', (req, res) => {
   try {
     if (req.query.q) {
@@ -67,3 +68,6 @@ router.delete('/:id', (req, res) => {
 });
 
 module.exports = router;
+module.exports.getByEmail = function (email) {
+  return Profile.get().filter(p => p.email === email);
+};
