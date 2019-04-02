@@ -8,4 +8,6 @@ module.exports = new BaseModel('Profile', {
     .required(),
   password: Joi.string()
     .required(),
+  username: Joi.string()
+    .required(),
 });
