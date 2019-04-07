@@ -1,12 +1,44 @@
 [
   {
     "id": 5152158977,
-    "imgPath": "./favicon.ico",
+    "imgPath": "./assets/images/stockholm_logo.jpg",
     "name": "Université de Stockholm",
     "country": "Suède",
     "city": "Stockholm",
     "program": "ERASMUS",
-    "placesNumber": 15,
-    "description": "excellent"
+    "placesNumber": 10,
+    "description": "excellent",
+    "nbReviews": 2,
+    "nbOldExp": 18,
+    "rates": [
+      3,
+      5
+    ],
+    "semester": [
+      1,
+      2
+    ],
+    "rate": 4
+  },
+  {
+    "id": 5152158978,
+    "imgPath": "./assets/images/linkoping_logo.png",
+    "name": "Université de Linköping",
+    "country": "Suède",
+    "city": "Linköping",
+    "program": "ERASMUS",
+    "placesNumber": 5,
+    "description": "excellent",
+    "nbReviews": 2,
+    "nbOldExp": 23,
+    "rates": [
+      5,
+      4
+    ],
+    "semester": [
+      1,
+      2
+    ],
+    "rate": 4.5
   }
 ]

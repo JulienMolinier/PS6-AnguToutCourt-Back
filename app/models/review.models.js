@@ -6,10 +6,10 @@ module.exports = new BaseModel('Review', {
     .required(),
   Description: Joi.string()
     .required(),
-  Country: Joi.string()
+  universityId: Joi.number()
     .required(),
-  Major: Joi.string()
+  Rate: Joi.number()
     .required(),
-  City: Joi.string()
+  Date: Joi.date()
     .required(),
 });

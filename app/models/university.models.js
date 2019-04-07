@@ -16,6 +16,15 @@ module.exports = new BaseModel('University', {
     .required(),
   description: Joi.string()
     .required(),
+  rates: Joi.array()
+    .items(Joi.number())
+    .required(),
+  nbReviews: Joi.number()
+    .required(),
   rate: Joi.number(),
-  nbReviews: Joi.number(),
+  nbOldExp: Joi.number()
+    .required(),
+  semester: Joi.array()
+    .items(Joi.number())
+    .required(),
 });

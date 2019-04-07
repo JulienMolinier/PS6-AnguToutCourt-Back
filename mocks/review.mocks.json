@@ -1,10 +1,18 @@
 [
   {
-    "id": 4546154645,
+    "universityId": 5152158978,
+    "Rate": 5,
+    "Description": "super semestre",
     "email": "julien@orange.fr",
-    "Description": "Super",
-    "Country": "Suède",
-    "Major": "SI3",
-    "City": "Stockholm"
+    "Date": "2019-04-07T13:17:30.299Z",
+    "id": 1554643050316
+  },
+  {
+    "universityId": 5152158978,
+    "Rate": 4,
+    "Description": "super semestre 2",
+    "email": "julien@orange.fr",
+    "Date": "2019-04-07T13:18:01.513Z",
+    "id": 1554643081520
   }
 ]
