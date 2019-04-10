@@ -27,4 +27,6 @@ module.exports = new BaseModel('University', {
   semester: Joi.array()
     .items(Joi.number())
     .required(),
+  campusDesc: Joi.string().required(),
+  campusImgs: Joi.array().items(Joi.string().required()),
 });

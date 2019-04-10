@@ -7,7 +7,7 @@
     "city": "Stockholm",
     "program": "ERASMUS",
     "placesNumber": 10,
-    "description": "excellent",
+    "description": "Excellente université proposant de nombreux cursus s'adaptant parfaitement aux filières de Polytech",
     "nbReviews": 2,
     "nbOldExp": 18,
     "rates": [
@@ -18,7 +18,12 @@
       1,
       2
     ],
-    "rate": 4
+    "rate": 4,
+    "campusDesc": "Le campus de l'université de Stockholm a la particularité d'être très bien placé",
+    "campusImgs": [
+      "./assets/images/stockholmImg1.jpg",
+      "./assets/images/stockholmImg2.jpg"
+    ]
   },
   {
     "id": 5152158978,
