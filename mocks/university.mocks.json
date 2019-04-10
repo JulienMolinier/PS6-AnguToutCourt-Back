@@ -23,7 +23,8 @@
     "campusImgs": [
       "./assets/images/stockholmImg1.jpg",
       "./assets/images/stockholmImg2.jpg"
-    ]
+    ],
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2033.2505467448827!2d18.057348200952276!3d59.36215727911426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554898130620!5m2!1sfr!2sfr"
   },
   {
     "id": 5152158978,
@@ -44,6 +45,13 @@
       1,
       2
     ],
-    "rate": 4.5
+    "rate": 4.5,
+    "campusDesc": "Le campus de l'université de Linköping est bo",
+    "campusImgs": [
+      "./assets/images/linkopingImg1.jpg",
+      "./assets/images/linkopingImg2.jpg"
+    ],
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr"
+
   }
 ]
