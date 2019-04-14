@@ -46,12 +46,152 @@
       2
     ],
     "rate": 4.5,
-    "campusDesc": "Le campus de l'université de Linköping est bo",
+    "campusDesc": "Le campus de l'université de Linköping est beau",
     "campusImgs": [
       "./assets/images/linkopingImg1.jpg",
       "./assets/images/linkopingImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr"
 
+  },
+  {
+    "id": 5152158979,
+    "imgPath": "./assets/images/univ_berne.png",
+    "name": "Université de Berne",
+    "country": "Suisse",
+    "city": "Berne",
+    "program": "ERASMUS",
+    "placesNumber": 6,
+    "description": "Excellente université proposant de nombreux cursus s'adaptant parfaitement aux filières de Polytech",
+    "nbReviews": 5,
+    "nbOldExp": 22,
+    "rates": [
+      2,
+      5,
+      4
+    ],
+    "semester": [
+      2
+    ],
+    "rate": 4,
+    "campusDesc": "Le campus de l'université de Berne offre aux étudiants la possibilité de se déplacer librement, le centre-ville étant situé à quelques centaines de mètres",
+
+    "campusImgs": [
+      "./assets/images/Suisse.jpg",
+      "./assets/images/berne.jpg"
+    ],
+    "location": "https://www.google.com/maps/place/Universit%C3%A4t+Bern/@46.9514255,7.4329962,16.06z/data=!4m5!3m4!1s0x0:0xe137536935bcff44!8m2!3d46.9504896!4d7.438119"
+  },
+  {
+    "id": 5152158980,
+    "imgPath": "./assets/images/ukraine_logo.jpg",
+    "name": "Université de Kharkiv",
+    "country": "Ukraine",
+    "city": "Kharkiv",
+    "program": "ERASMUS",
+    "placesNumber": 3,
+    "description": "Les cours sont peu adaptés à ceux suivis à Polytech en 4A, cependant ils sont bien utiles pour la 5A.",
+    "nbReviews": 1,
+    "nbOldExp": 10,
+    "rates": [
+      3
+    ],
+    "semester": [
+      1
+    ],
+    "rate": 4,
+    "campusDesc": "Le campus de l'université de Kharkiv est situé en dehors de la ville. Certaines résidences étudiantes sont à proximité.",
+
+    "campusImgs": [
+      "./assets/images/ukraine2.jpg",
+      "./assets/images/ukraine.jpg"
+    ],
+    "location": "https://www.google.com/maps/place/Kharkiv,+Oblast+de+Kharkiv,+Ukraine/@49.9906292,36.1678119,11.5z/data=!4m13!1m7!3m6!1s0x4127a09f63ab0f8b:0x2d4c18681aa4be0a!2sKharkiv,+Oblast+de+Kharkiv,+Ukraine!3b1!8m2!3d49.9935!4d36.230383!3m4!1s0x4127a09f63ab0f8b:0x2d4c18681aa4be0a!8m2!3d49.9935!4d36.230383"
+  },
+  {
+    "id": 5152158981,
+    "imgPath": "./assets/images/lisbonne_logo.png",
+    "name": "Université de Lisbonne",
+    "country": "Portugal",
+    "city": "Lisbonne",
+    "program": "ERASMUS",
+    "placesNumber": 5,
+    "description": "Les cours sont en cohérence avec ce qui a été vu précédemment.",
+    "nbReviews": 3,
+    "nbOldExp": 30,
+    "rates": [
+      3,
+      4,
+      5
+    ],
+    "semester": [
+      1
+    ],
+    "rate": 4,
+    "campusDesc": "Le campus de l'université de Lisbonne est très agréable.",
+
+    "campusImgs": [
+      "./assets/images/portugal.jpg",
+      "./assets/images/lisbonne.jpg"
+    ],
+    "location": "https://www.google.com/maps/place/Universit%C3%A9+de+Lisbonne/@38.7526578,-9.158245,15z/data=!4m2!3m1!1s0x0:0xe69947220603097?sa=X&ved=2ahUKEwjj_sDyrM7hAhVNJBoKHWjfBQ8Q_BIwDnoECA0QCA"
+  },
+  {
+    "id": 5152158982,
+    "name": "Asian Institute of Technology",
+    "imgPath": "./assets/images/thailande_logo.png",
+    "country": "Thaïlande",
+    "city": "Bangkok",
+    "program": "ISEP",
+    "placesNumber": 5,
+    "description": "Les cours sont en anglais, donc compréhensibles et suivent bien le programme.",
+    "nbReviews": 3,
+    "nbOldExp": 30,
+    "rates": [
+      3,
+      4,
+      5
+    ],
+    "semester": [
+      1,
+      2
+    ],
+    "rate": 4,
+    "campusDesc": "Le campus de l'Asian Institute of Technology est très agréable.",
+
+    "campusImgs": [
+      "./assets/images/thailande.jpg",
+      "./assets/images/bangkok.jpg"
+    ],
+    "location": "https://www.google.com/maps/place/Asian+Institute+of+Technology/@14.0785,100.6140362,15z/data=!4m5!3m4!1s0x0:0xf01923824353270!8m2!3d14.0785!4d100.6140362"
+  },
+  {
+    "id": 5152158983,
+    "imgPath": "./assets/images/norvege_logo.png",
+    "name": "Norweigian University of Science &Technology (NTNU) ",
+    "country": "Norvège",
+    "city": "Thorin",
+    "program": "ERASMUS",
+    "placesNumber": 2,
+    "description": "Les cours sont en anglais, donc compréhensibles et suivent bien le programme.",
+    "nbReviews": 3,
+    "nbOldExp": 15,
+    "rates": [
+      3,
+      4,
+      5
+    ],
+    "semester": [
+      1,
+      2
+    ],
+    "rate": 4,
+    "campusDesc": "Le campus de la Norweigian University of Science &Technology (NTNU) est très agréable.",
+
+    "campusImgs": [
+      "./assets/images/norvege1.png",
+      "./assets/images/norvege2.png"
+    ],
+    "location": "https://www.google.com/maps/place/Universit%C3%A9+norv%C3%A9gienne+de+sciences+et+de+technologie/@63.419499,10.4020771,15z/data=!4m2!3m1!1s0x0:0xb4fde91ca281978b?sa=X&ved=2ahUKEwi46Yufrs7hAhUJxYUKHXUSCyEQ_BIwDXoECAkQCA"
   }
 ]
