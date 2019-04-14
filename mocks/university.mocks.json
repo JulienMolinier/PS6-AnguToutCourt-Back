@@ -24,7 +24,11 @@
       "./assets/images/stockholmImg1.jpg",
       "./assets/images/stockholmImg2.jpg"
     ],
-    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2033.2505467448827!2d18.057348200952276!3d59.36215727911426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554898130620!5m2!1sfr!2sfr"
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2033.2505467448827!2d18.057348200952276!3d59.36215727911426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554898130620!5m2!1sfr!2sfr",
+    "formationdesc": "Plusieurs formations sont disponibles en informatique et en mécanique",
+    "inscriptiondesc": "L'inscription se fait sur ce site : ",
+    "contacts": "Je suis un contact à contacter",
+    "formerGraduates": "Ici c'est soit des contacts prédéfinis soit les emails des gens qui ont mis des avis sur cette univ FO VOIR"
   },
   {
     "id": 5152158978,
@@ -80,7 +84,7 @@
       "./assets/images/Suisse.jpg",
       "./assets/images/berne.jpg"
     ],
-    "location": "https://www.google.com/maps/place/Universit%C3%A4t+Bern/@46.9514255,7.4329962,16.06z/data=!4m5!3m4!1s0x0:0xe137536935bcff44!8m2!3d46.9504896!4d7.438119"
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1619.4460950488633!2d7.436763318135817!3d46.95043411496677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271066121!5m2!1sfr!2sfr"
   },
   {
     "id": 5152158980,
@@ -106,7 +110,7 @@
       "./assets/images/ukraine2.jpg",
       "./assets/images/ukraine.jpg"
     ],
-    "location": "https://www.google.com/maps/place/Kharkiv,+Oblast+de+Kharkiv,+Ukraine/@49.9906292,36.1678119,11.5z/data=!4m13!1m7!3m6!1s0x4127a09f63ab0f8b:0x2d4c18681aa4be0a!2sKharkiv,+Oblast+de+Kharkiv,+Ukraine!3b1!8m2!3d49.9935!4d36.230383!3m4!1s0x4127a09f63ab0f8b:0x2d4c18681aa4be0a!8m2!3d49.9935!4d36.230383"
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2564.342166660686!2d36.2271695766177!3d50.00494161855366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271376723!5m2!1sfr!2sfr"
   },
   {
     "id": 5152158981,
@@ -134,7 +138,7 @@
       "./assets/images/portugal.jpg",
       "./assets/images/lisbonne.jpg"
     ],
-    "location": "https://www.google.com/maps/place/Universit%C3%A9+de+Lisbonne/@38.7526578,-9.158245,15z/data=!4m2!3m1!1s0x0:0xe69947220603097?sa=X&ved=2ahUKEwjj_sDyrM7hAhVNJBoKHWjfBQ8Q_BIwDnoECA0QCA"
+    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12445.926203680638!2d-9.158245!3d38.7526578!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271427718!5m2!1sfr!2sfr"
   },
   {
     "id": 5152158982,
@@ -163,7 +167,7 @@
       "./assets/images/thailande.jpg",
       "./assets/images/bangkok.jpg"
     ],
-    "location": "https://www.google.com/maps/place/Asian+Institute+of+Technology/@14.0785,100.6140362,15z/data=!4m5!3m4!1s0x0:0xf01923824353270!8m2!3d14.0785!4d100.6140362"
+    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d10945.930859357806!2d100.61400003426876!3d14.078891121844052!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271672951!5m2!1sfr!2sfr"
   },
   {
     "id": 5152158983,
@@ -192,6 +196,6 @@
       "./assets/images/norvege1.png",
       "./assets/images/norvege2.png"
     ],
-    "location": "https://www.google.com/maps/place/Universit%C3%A9+norv%C3%A9gienne+de+sciences+et+de+technologie/@63.419499,10.4020771,15z/data=!4m2!3m1!1s0x0:0xb4fde91ca281978b?sa=X&ved=2ahUKEwi46Yufrs7hAhUJxYUKHXUSCyEQ_BIwDXoECAkQCA"
+    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2524.746697669446!2d10.401143190132627!3d63.41946199300997!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271725195!5m2!1sfr!2sfr"
   }
 ]
