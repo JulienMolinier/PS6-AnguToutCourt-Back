@@ -1,5 +1,6 @@
 const { Router } = require('express');
 const { Profile } = require('../../models');
+const NotFoundError = require('../../utils/errors/not-found-error.js');
 
 const router = new Router();
 
@@ -69,5 +70,7 @@ router.delete('/:id', (req, res) => {
 
 module.exports = router;
 module.exports.getByEmail = function (email) {
-  return Profile.get().filter(p => p.email === email);
+  const item = Profile.get().find(i => i.email === email);
+  if (!item) throw new NotFoundError(`Cannot get ${this.name} email=${email} : not found`);
+  return item;
 };

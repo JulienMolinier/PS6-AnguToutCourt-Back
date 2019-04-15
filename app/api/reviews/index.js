@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const { Review, Profile } = require('../../models');
+const { Review, Profile, University } = require('../../models');
 const email = require('../profiles/index.js');
 
 const router = new Router();
@@ -8,14 +8,18 @@ function attachStudent(review) {
   return Object.assign({}, review, { profile: email.getByEmail(review.email) });
 }
 
+function attachUniv(review) {
+  return Object.assign({}, review, { university: University.getById(review.universityId) });
+}
+
 router.get('/', (req, res) => {
   try {
     if (req.query.q) {
       res.status(200).json(Review.search(req.query.q)
-        .map(review => attachStudent(review)));
+        .map(review => attachStudent(review)).map(review => attachUniv(review)));
     } else {
       res.status(200).json(Review.get()
-        .map(review => attachStudent(review)));
+        .map(review => attachStudent(review)).map(review => attachUniv(review)));
     }
   } catch (err) {
     res.status(500).json(err);
