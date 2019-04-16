@@ -41,7 +41,6 @@ router.get('/:id', (req, res) => {
 router.post('/', (req, res) => {
   try {
     const review = Review.create(req.body);
-    attachStudent(review);
     res.status(201).json(review);
   } catch (err) {
     if (err.name === 'ValidationError') {

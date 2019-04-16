@@ -27,11 +27,18 @@ module.exports = new BaseModel('University', {
   semester: Joi.array()
     .items(Joi.number())
     .required(),
-  campusDesc: Joi.string().required(),
-  campusImgs: Joi.array().items(Joi.string().required()),
-  location: Joi.string().required(),
-  formationdesc: Joi.string().required(),
-  inscriptiondesc: Joi.string().required(),
-  contacts: Joi.string().required(),
-  formerGraduates: Joi.string().required(),
+  campusDesc: Joi.string()
+    .required(),
+  campusImgs: Joi.array()
+    .items(Joi.string().required()),
+  location: Joi.string()
+    .required(),
+  formationdesc: Joi.string()
+    .required(),
+  inscriptiondesc: Joi.string()
+    .required(),
+  contacts: Joi.string()
+    .required(),
+  formerGraduates: Joi.string()
+    .required(),
 });
