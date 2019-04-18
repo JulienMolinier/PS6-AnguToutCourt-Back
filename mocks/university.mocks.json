@@ -8,11 +8,9 @@
     "program": "ERASMUS",
     "placesNumber": 10,
     "description": "Excellente université proposant de nombreux cursus s'adaptant parfaitement aux filières de Polytech",
-    "nbReviews": 3,
+    "nbReviews": 1,
     "nbOldExp": 18,
     "rates": [
-      3,
-      5,
       4
     ],
     "semester": [
