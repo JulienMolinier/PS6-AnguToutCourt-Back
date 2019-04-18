@@ -8,11 +8,12 @@
     "program": "ERASMUS",
     "placesNumber": 10,
     "description": "Excellente université proposant de nombreux cursus s'adaptant parfaitement aux filières de Polytech",
-    "nbReviews": 2,
+    "nbReviews": 3,
     "nbOldExp": 18,
     "rates": [
       3,
-      5
+      5,
+      4
     ],
     "semester": [
       1,
@@ -56,7 +57,6 @@
       "./assets/images/linkopingImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr"
-
   },
   {
     "id": 5152158979,
@@ -79,7 +79,6 @@
     ],
     "rate": 4,
     "campusDesc": "Le campus de l'université de Berne offre aux étudiants la possibilité de se déplacer librement, le centre-ville étant situé à quelques centaines de mètres",
-
     "campusImgs": [
       "./assets/images/Suisse.jpg",
       "./assets/images/berne.jpg"
@@ -105,7 +104,6 @@
     ],
     "rate": 4,
     "campusDesc": "Le campus de l'université de Kharkiv est situé en dehors de la ville. Certaines résidences étudiantes sont à proximité.",
-
     "campusImgs": [
       "./assets/images/ukraine2.jpg",
       "./assets/images/ukraine.jpg"
@@ -133,7 +131,6 @@
     ],
     "rate": 4,
     "campusDesc": "Le campus de l'université de Lisbonne est très agréable.",
-
     "campusImgs": [
       "./assets/images/portugal.jpg",
       "./assets/images/lisbonne.jpg"
@@ -162,7 +159,6 @@
     ],
     "rate": 4,
     "campusDesc": "Le campus de l'Asian Institute of Technology est très agréable.",
-
     "campusImgs": [
       "./assets/images/thailande.jpg",
       "./assets/images/bangkok.jpg"
@@ -191,7 +187,6 @@
     ],
     "rate": 4,
     "campusDesc": "Le campus de la Norweigian University of Science &Technology (NTNU) est très agréable.",
-
     "campusImgs": [
       "./assets/images/norvege1.png",
       "./assets/images/norvege2.png"
