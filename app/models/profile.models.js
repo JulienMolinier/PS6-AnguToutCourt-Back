@@ -12,4 +12,6 @@ module.exports = new BaseModel('Profile', {
     .required(),
   username: Joi.string()
     .required(),
+  major: Joi.string()
+    .required(),
 });
