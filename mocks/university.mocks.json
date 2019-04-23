@@ -6,8 +6,8 @@
     "country": "Suède",
     "city": "Stockholm",
     "program": "ERASMUS",
-    "placesNumber": 10,
-    "description": "Excellente université proposant de nombreux cursus s'adaptant parfaitement aux filières de Polytech",
+    "placesNumber": 3,
+    "description": "L’université de Stockholm est une université publique, à Stockholm en Suède.Elle a été fondée en 1878 et compte environ 70 000 étudiants se répartissant dans 4 facultés. L'année universitaire suédoise est divisée en deux semestres : l’un commence fin janvier et se termine début juin et l’autre commence fin août et se termine fin janvier.\nLes 80 départements et centres de l'université proposent plus de 70 programmes de maîtrise dispensés en anglais, ainsi qu’un grand nombre d'autres cours pour des formations plus courtes.\nL'université offre un environnement d'études sûr dans le contexte d'une des capitales les plus dynamiques de l'Europe, ce qui en fait un choix excellent pour les étudiants étrangers venant du monde entier.\n",
     "nbReviews": 1,
     "nbOldExp": 18,
     "rates": [
@@ -18,16 +18,14 @@
       2
     ],
     "rate": 4,
-    "campusDesc": "Le campus de l'université de Stockholm a la particularité d'être très bien placé",
+    "campusDesc": "La plupart des activités d’enseignement et de recherche à l’Université de Stockholm se déroulent dans la région de Frescati, juste au nord de Stockholm, qui s’étend du Jardin botanique de Bergius au nord à Sveaplan au sud. Il est situé au milieu du premier parc urbain national du monde, et la région est caractérisée par une belle nature, l’architecture intéressante et l’art moderne.",
     "campusImgs": [
       "./assets/images/stockholmImg1.jpg",
       "./assets/images/stockholmImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2033.2505467448827!2d18.057348200952276!3d59.36215727911426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554898130620!5m2!1sfr!2sfr",
-    "formationdesc": "Plusieurs formations sont disponibles en informatique et en mécanique",
-    "inscriptiondesc": "L'inscription se fait sur ce site : ",
-    "contacts": "Je suis un contact à contacter",
-    "formerGraduates": "Ici c'est soit des contacts prédéfinis soit les emails des gens qui ont mis des avis sur cette univ FO VOIR"
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": "Julien Molinier, SI4 : julien.molinier@gmail.com"
   },
   {
     "id": 5152158978,
@@ -36,10 +34,10 @@
     "country": "Suède",
     "city": "Linköping",
     "program": "ERASMUS",
-    "placesNumber": 5,
-    "description": "excellent",
+    "placesNumber": 4,
+    "description": "L’université de Linköping, à Liu, mène des recherches de calibre mondial dans des domaines qui comprennent la science des matériaux, les sciences informatiques et l’audition. Dans le même esprit, l’université offre de nombreux programmes éducatifs innovants, souvent avec une orientation professionnelle claire et menant à la qualification comme, par exemple, les médecins, les enseignants, les économistes et les ingénieurs.Nous accueillons environ 1000 étudiants par an de nos universités partenaires, nous offrons des un cours de qualification intense en suédois pour les étudiants qui visent à étudier au niveau universitaire en suédois et nos étudiants de doctorat sont des employés rémunérés à Liu.",
     "nbReviews": 2,
-    "nbOldExp": 23,
+    "nbOldExp": 16,
     "rates": [
       5,
       4
@@ -49,12 +47,14 @@
       2
     ],
     "rate": 4.5,
-    "campusDesc": "Le campus de l'université de Linköping est beau",
+    "campusDesc": "Trois de nos quatre campus offrent des programmes et des cours internationaux, deux sont situés à Linköping et un à Norrköping. Il y a un bus gratuit entre les campus.",
     "campusImgs": [
       "./assets/images/linkopingImg1.jpg",
       "./assets/images/linkopingImg2.jpg"
     ],
-    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr"
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": "Maxime Leras, SI4 : leras.maxime@gmail.com"
   },
   {
     "id": 5152158979,
@@ -64,9 +64,9 @@
     "city": "Berne",
     "program": "ERASMUS",
     "placesNumber": 6,
-    "description": "Excellente université proposant de nombreux cursus s'adaptant parfaitement aux filières de Polytech",
-    "nbReviews": 5,
-    "nbOldExp": 22,
+    "description": "L’Université de Berne est située dans la ville de Berne, capitale de la Suisse. Université traditionnelle complète, elle propose une large offre de filières d’études dans huit facultés et près de 150 instituts. Sa situation géographie centrale, la qualité de vie parmi les plus élevées au monde dans la ville de Berne2 et les cursus proposés contribuent à l’attractivité de cette université.",
+    "nbReviews": 3,
+    "nbOldExp": 24,
     "rates": [
       2,
       5,
@@ -75,13 +75,16 @@
     "semester": [
       2
     ],
-    "rate": 4,
-    "campusDesc": "Le campus de l'université de Berne offre aux étudiants la possibilité de se déplacer librement, le centre-ville étant situé à quelques centaines de mètres",
+    "rate": 3.7,
+    "campusDesc": "On trouve à Berne diverses résidences estudiantines qui proposent des chambres et des studios à louer. Pour plus d'information, veuillez vous rediriger vers le site: https://www.unibe.ch/universite/campus_et_infrastructures/habiter_et_vivre/hbergement__logis/index_fra.html",
     "campusImgs": [
       "./assets/images/Suisse.jpg",
       "./assets/images/berne.jpg"
     ],
-    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1619.4460950488633!2d7.436763318135817!3d46.95043411496677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271066121!5m2!1sfr!2sfr"
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1619.4460950488633!2d7.436763318135817!3d46.95043411496677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271066121!5m2!1sfr!2sfr",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": "Julie Molinier, ELEC5 : julie.molinier@gmail.com   Maxence Leras, BAT4 : leras.maxence@gmail.com"
+
   },
   {
     "id": 5152158980,
@@ -91,7 +94,7 @@
     "city": "Kharkiv",
     "program": "ERASMUS",
     "placesNumber": 3,
-    "description": "Les cours sont peu adaptés à ceux suivis à Polytech en 4A, cependant ils sont bien utiles pour la 5A.",
+    "description": "L'Université de Kharkiv est l'une des universités les plus vieilles de l'Europe de l'Est. Elle comprend 16 universités au total, chacune spécialisée dans un domaine précis(biologie, économie, mathématiques, physique...), ainsi que des centres de recherche.Une expérience de quinze ans de notre université nous permet d'accomplir nos devoirs d'une façon professionnelle et de prêter toute assistance aux étudiants étrangers dès leur arrivée en Ukraine jusqu'à l'obtention d'un diplôme.",
     "nbReviews": 1,
     "nbOldExp": 10,
     "rates": [
@@ -100,13 +103,16 @@
     "semester": [
       1
     ],
-    "rate": 4,
-    "campusDesc": "Le campus de l'université de Kharkiv est situé en dehors de la ville. Certaines résidences étudiantes sont à proximité.",
+    "rate": 3,
+    "campusDesc": "Nous sommes prêts à vous offrir tous les services liés avec votre séjours d'études: assistance à l'obtention des visas/ accueil à l'aéroport/ acheminement à Kharkiv/ hébergement au foyer/ rédaction des documents/ assurance maladie/ assistance pendant les études/ traduction des documnets;.",
     "campusImgs": [
       "./assets/images/ukraine2.jpg",
       "./assets/images/ukraine.jpg"
     ],
-    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2564.342166660686!2d36.2271695766177!3d50.00494161855366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271376723!5m2!1sfr!2sfr"
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2564.342166660686!2d36.2271695766177!3d50.00494161855366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271376723!5m2!1sfr!2sfr",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger",
+    "contacts": "Youssef Mekouar, ELEC4 : mekouar.youssef@gmail.com"
+
   },
   {
     "id": 5152158981,
@@ -116,34 +122,7 @@
     "city": "Lisbonne",
     "program": "ERASMUS",
     "placesNumber": 5,
-    "description": "Les cours sont en cohérence avec ce qui a été vu précédemment.",
-    "nbReviews": 3,
-    "nbOldExp": 30,
-    "rates": [
-      3,
-      4,
-      5
-    ],
-    "semester": [
-      1
-    ],
-    "rate": 4,
-    "campusDesc": "Le campus de l'université de Lisbonne est très agréable.",
-    "campusImgs": [
-      "./assets/images/portugal.jpg",
-      "./assets/images/lisbonne.jpg"
-    ],
-    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12445.926203680638!2d-9.158245!3d38.7526578!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271427718!5m2!1sfr!2sfr"
-  },
-  {
-    "id": 5152158982,
-    "name": "Asian Institute of Technology",
-    "imgPath": "./assets/images/thailande_logo.png",
-    "country": "Thaïlande",
-    "city": "Bangkok",
-    "program": "ISEP",
-    "placesNumber": 5,
-    "description": "Les cours sont en anglais, donc compréhensibles et suivent bien le programme.",
+    "description": "L'université de Lisbonne est la plus grande et la plus prestigieuse université du Portugal et l’une des principales universités européennes. Grâce au programme d'échange Ersmus+ , l'université accueille chaque année plusieurs étudiants de différents pays. ",
     "nbReviews": 3,
     "nbOldExp": 30,
     "rates": [
@@ -156,22 +135,55 @@
       2
     ],
     "rate": 4,
-    "campusDesc": "Le campus de l'Asian Institute of Technology est très agréable.",
+    "campusDesc": "L'université ne propose pas d'hébergement, cependant plusieurs résidences étudiantes sont situées à proximité. De plus, l'université comporte des associations étudiantes pratiquant sports et arts. ",
+    "campusImgs": [
+      "./assets/images/portugal.jpg",
+      "./assets/images/lisbonne.jpg"
+    ],
+    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12445.926203680638!2d-9.158245!3d38.7526578!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271427718!5m2!1sfr!2sfr",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": "Hasnaa Elalaoui, MAM4 : elalaoui.hasnaa@gmail.com"
+
+  },
+  {
+    "id": 5152158982,
+    "imgPath": "./assets/images/thailande_logo.png",
+    "name": "Asian Institute of Technology",
+    "country": "Thaïlande",
+    "city": "Bangkok",
+    "program": "ISEP",
+    "placesNumber": 5,
+    "description": "L'Asian Institute of Technology encourage le changement technologique et le développement durable dans la région Asie-Pacifique par l’enseignement supérieur, la recherche et la sensibilisation. Établie à Bangkok en 1959, l’AIT est devenue une institution postdoctorale régionale de premier plan et travaille activement avec des partenaires des secteurs public et privé dans toute la région et avec certaines des meilleures universités du monde.",
+    "nbReviews": 3,
+    "nbOldExp": 30,
+    "rates": [
+      3,
+      4,
+      5
+    ],
+    "semester": [
+      1,
+      2
+    ],
+    "rate": 4,
+    "campusDesc": "Le campus de l'AIT comporte des résidences permettant d'héberger les étudiants ainsi que des terrains de volleyball, de basketball et un cours de tennis. De plus, une bibliothèque universitaire est mise à la disposition des étudiants souhaitant travailler dans un cadre plus calme.",
     "campusImgs": [
       "./assets/images/thailande.jpg",
       "./assets/images/bangkok.jpg"
     ],
-    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d10945.930859357806!2d100.61400003426876!3d14.078891121844052!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271672951!5m2!1sfr!2sfr"
+    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d10945.930859357806!2d100.61400003426876!3d14.078891121844052!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271672951!5m2!1sfr!2sfr",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": "Bruno Lambert, GE4 : bruno.lambert@gmail.com"
   },
   {
     "id": 5152158983,
     "imgPath": "./assets/images/norvege_logo.png",
-    "name": "Norweigian University of Science &Technology (NTNU) ",
+    "name": "Norweigian University of Science &Technology ",
     "country": "Norvège",
     "city": "Thorin",
     "program": "ERASMUS",
     "placesNumber": 2,
-    "description": "Les cours sont en anglais, donc compréhensibles et suivent bien le programme.",
+    "description": "Trondheim est connue comme un emplacement de choix pour les étudiants et les universitaires, et la ville est régulièrement classée comme la meilleure ville étudiante en Norvège.Il est possible d'intégrer l'université en tant qu’étudiant en semestre d'échange, si votre université d’origine a un accord avec la NTNU. Certains accords offrent également la possibilité de combiner un stage pratique et des études théoriques.",
     "nbReviews": 3,
     "nbOldExp": 15,
     "rates": [
@@ -180,15 +192,16 @@
       5
     ],
     "semester": [
-      1,
       2
     ],
     "rate": 4,
-    "campusDesc": "Le campus de la Norweigian University of Science &Technology (NTNU) est très agréable.",
+    "campusDesc": "Le Bureau des Relations Internationales est responsable de l’hébergement des étudiants étrangers admis dans l’un de nos programmes de master internationaux. Normalement, tous les étudiants se voient attribuer un logement pendant le semestre de printemps.\n",
     "campusImgs": [
       "./assets/images/norvege1.png",
       "./assets/images/norvege2.png"
     ],
-    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2524.746697669446!2d10.401143190132627!3d63.41946199300997!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271725195!5m2!1sfr!2sfr"
+    "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2524.746697669446!2d10.401143190132627!3d63.41946199300997!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271725195!5m2!1sfr!2sfr",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": "Louis Julien, SI4: louis.julien@gmail.com "
   }
 ]

@@ -33,12 +33,9 @@ module.exports = new BaseModel('University', {
     .items(Joi.string().required()),
   location: Joi.string()
     .required(),
-  formationdesc: Joi.string()
-    .required(),
   inscriptiondesc: Joi.string()
     .required(),
   contacts: Joi.string()
     .required(),
-  formerGraduates: Joi.string()
-    .required(),
+
 });
