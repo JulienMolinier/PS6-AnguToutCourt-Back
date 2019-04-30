@@ -12,14 +12,19 @@ function attachUniv(review) {
   return Object.assign({}, review, { university: University.getById(review.universityId) });
 }
 
+function attach(review) {
+  review = attachStudent(review);
+  review = attachUniv(review);
+  return review;
+}
+
 router.get('/', (req, res) => {
   try {
     if (req.query.q) {
-      res.status(200).json(Review.search(req.query.q)
-        .map(review => attachStudent(review)).map(review => attachUniv(review)));
+      res.status(200).json(Review.search(req.query.q).map(review => attach(review)));
     } else {
       res.status(200).json(Review.get()
-        .map(review => attachStudent(review)).map(review => attachUniv(review)));
+        .map(review => attach(review)));
     }
   } catch (err) {
     res.status(500).json(err);
@@ -28,7 +33,8 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
   try {
-    res.status(200).json(Review.getById(req.params.id));
+    const reviewToSend = Review.getById(req.params.id);
+    res.status(200).json(attach(reviewToSend));
   } catch (err) {
     if (err.name === 'NotFoundError') {
       res.status(404).end();
