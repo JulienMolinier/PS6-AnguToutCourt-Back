@@ -13,9 +13,9 @@ function attachUniv(review) {
 }
 
 function attach(review) {
-  let reviewToSend = attachStudent(review);
-  reviewToSend = attachUniv(review);
-  return reviewToSend;
+  review = attachStudent(review);
+  review = attachUniv(review);
+  return review;
 }
 
 router.get('/', (req, res) => {
