@@ -1,11 +1,11 @@
 const { Router } = require('express');
 const { University } = require('../../models');
-
 const router = new Router();
+
 router.get('/', (req, res) => {
   try {
-    if (req.query.q) {
-      res.status(200).json(University.search(req.query.q));
+    if (req.query.recommended) {
+      res.status(200).json(University.get().filter(university => university.recommended.toString() === req.query.recommended));
     } else {
       res.status(200).json(University.get());
     }
@@ -66,4 +66,6 @@ router.delete('/:id', (req, res) => {
   }
 });
 
+
 module.exports = router;
+

@@ -37,5 +37,6 @@ module.exports = new BaseModel('University', {
     .required(),
   contacts: Joi.string()
     .required(),
+  recommended: Joi.boolean().required(),
 
 });
