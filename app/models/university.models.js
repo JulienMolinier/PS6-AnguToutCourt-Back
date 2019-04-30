@@ -30,14 +30,15 @@ module.exports = new BaseModel('University', {
   campusDesc: Joi.string()
     .required(),
   campusImgs: Joi.array()
-    .items(Joi.string().required()),
+    .items(Joi.string())
+    .required(),
   location: Joi.string()
     .required(),
   inscriptiondesc: Joi.string()
     .required(),
   contacts: Joi.string()
     .required(),
-  major: Joi.string()
+  major: Joi.array()
+    .items(Joi.string())
     .required(),
-
 });
