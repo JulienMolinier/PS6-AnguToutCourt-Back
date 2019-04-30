@@ -37,5 +37,7 @@ module.exports = new BaseModel('University', {
     .required(),
   contacts: Joi.string()
     .required(),
+  major: Joi.string()
+    .required(),
 
 });
