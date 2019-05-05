@@ -43,6 +43,17 @@ module.exports = class BaseModel {
     return item;
   }
 
+  /**
+   * Elle fait une recherche par clefs , dans notre cas on l'utilise pour la recherche d'un utilisateur par username .
+   * @param key
+   * @param value
+   * @returns {*}
+   */
+  getByKey(key, value) {
+    const item = this.items.find(item => item[key] === value);
+    return item;
+  }
+
   create(obj = {}) {
     const item = Object.assign({}, obj, { id: Date.now() });
     const { error } = Joi.validate(item, this.schema);
