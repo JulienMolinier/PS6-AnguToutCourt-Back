@@ -31,4 +31,4 @@ class JWTServices {
     }
 }
 
-module.exports = new JWTServices(300); // 5 heures par exemple
+module.exports = new JWTServices(900); // 15 minutes par exemple
