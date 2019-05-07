@@ -36,10 +36,14 @@ module.exports = new BaseModel('University', {
     .required(),
   inscriptiondesc: Joi.string()
     .required(),
-  contacts: Joi.string()
+  contacts: Joi.array()
+    .items(Joi.string())
     .required(),
   recommended: Joi.boolean().required(),
   major: Joi.array()
     .items(Joi.string())
     .required(),
+  link: Joi.string()
+    .required(),
+
 });

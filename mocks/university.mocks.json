@@ -24,13 +24,14 @@
       "./assets/images/stockholmImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2033.2505467448827!2d18.057348200952276!3d59.36215727911426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554898130620!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
-    "contacts": "Julien Molinier, SI4 : julien.molinier@gmail.com",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": ["Julien Molinier, SI4 : julien.molinier@gmail.com"],
     "recommended": true,
     "major": [
       "SI",
       "MAM"
-    ]
+    ],
+    "link": "https://www.su.se/english/education/all-subjects"
   },
   {
     "id": 5152158978,
@@ -58,12 +59,13 @@
       "./assets/images/linkopingImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
-    "contacts": "Maxime Leras, SI4 : leras.maxime@gmail.com",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": ["Maxime Leras, SI4 : leras.maxime@gmail.com"],
     "recommended": true,
     "major": [
       "SI"
-    ]
+    ],
+    "link": "https://liu.se/en/education/programmes-and-courses?areas=&term=&searchId=%7B0F524E06-B13E-4376-B914-81312EB1EA80%7D&filter_templates_sm=927742ef9d3f4c258bcffc930a54acb5%2C69a28e11d403494886096b0eb4531f20&templates_sm=&recruitmentpagesemester_sm=&recruitmentavailableforfreemovers_b=&recruitmentpageeducationlevel_sm=&recruitmentpageplaceofstudy_sm=&recruitmentpageteachingform_sm=&recruitmentpagespeed_sm=&filter_recruitmentavailableforfreemovers_b=true&take=30&sort=asc&view=grid&expanded=true"
   },
   {
     "id": 5152158979,
@@ -91,13 +93,17 @@
       "./assets/images/berne.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1619.4460950488633!2d7.436763318135817!3d46.95043411496677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271066121!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
-    "contacts": "Julie Molinier, ELEC5 : julie.molinier@gmail.com   Maxence Leras, BAT4 : leras.maxence@gmail.com",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": [
+      "Julie Molinier, ELEC5 : julie.molinier@gmail.com",
+      "Maxence Leras, BAT4 : leras.maxence@gmail.com"
+    ],
     "recommended": false,
     "major": [
       "SI",
       "MAM"
-    ]
+    ],
+    "link": "https://www.unibe.ch/etudes/offres_detudes/bachelor/programmes_d_etudes/index_fra.html"
   },
   {
     "id": 5152158980,
@@ -123,8 +129,8 @@
       "./assets/images/ukraine.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2564.342166660686!2d36.2271695766177!3d50.00494161855366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271376723!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger",
-    "contacts": "Youssef Mekouar, ELEC4 : mekouar.youssef@gmail.com",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger",
+    "contacts": ["Youssef Mekouar, ELEC4 : mekouar.youssef@gmail.com"],
     "recommended": true,
     "major": [
       "SI",
@@ -132,7 +138,8 @@
       "BAT",
       "GB",
       "GE"
-    ]
+    ],
+    "link": "http://www.education-in-ukraine.com/fr/universit-s/liste-des-universites.html"
   },
   {
     "id": 5152158981,
@@ -161,15 +168,16 @@
       "./assets/images/lisbonne.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12445.926203680638!2d-9.158245!3d38.7526578!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271427718!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
-    "contacts": "Hasnaa Elalaoui, MAM4 : elalaoui.hasnaa@gmail.com",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": ["Hasnaa Elalaoui, MAM4 : elalaoui.hasnaa@gmail.com"],
     "recommended": false,
     "major": [
       "MAM",
       "BAT",
       "GB",
       "GE"
-    ]
+    ],
+    "link": "https://www.ulisboa.pt/en/info/programmes-0"
   },
   {
     "id": 5152158982,
@@ -198,8 +206,8 @@
       "./assets/images/bangkok.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d10945.930859357806!2d100.61400003426876!3d14.078891121844052!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271672951!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
-    "contacts": "Bruno Lambert, GE4 : bruno.lambert@gmail.com",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": ["Bruno Lambert, GE4 : bruno.lambert@gmail.com"],
     "recommended": true,
     "major": [
       "SI",
@@ -207,7 +215,8 @@
       "BAT",
       "GB",
       "GE"
-    ]
+    ],
+    "link": "https://www.ait.ac.th/programs/"
   },
   {
     "id": 5152158983,
@@ -235,13 +244,14 @@
       "./assets/images/norvege2.png"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2524.746697669446!2d10.401143190132627!3d63.41946199300997!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271725195!5m2!1sfr!2sfr",
-    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
-    "contacts": "Louis Julien, SI4: louis.julien@gmail.com ",
+    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": ["Louis Julien, SI4: louis.julien@gmail.com "],
     "recommended": true,
     "major": [
       "SI",
       "MAM",
       "BAT"
-    ]
+    ],
+    "link": "https://www.ntnu.edu/studies/allstudies?admissions=1&location=Trondheim"
   }
 ]
