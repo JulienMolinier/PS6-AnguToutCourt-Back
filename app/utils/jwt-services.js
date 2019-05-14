@@ -15,7 +15,6 @@ class JWTServices {
             algorithm : 'RS256',
             expiresIn : this.duration,
             subject : subject
-
           }
         );
     }

@@ -7,6 +7,23 @@
     "username": "JulienM",
     "email": "julien@orange.fr",
     "major": "SI"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Leras",
+    "username": "Maxime",
+    "password": "maxime",
+    "email": "maxime@orange.fr",
+    "major": "SI",
+    "id": 1557790630091
+  },
+  {
+    "firstName": "Hasnaa",
+    "lastName": "Elalaoui",
+    "username": "Hasnaa",
+    "password": "hasnaa",
+    "email": "hasnaa@orange.fr",
+    "major": "BAT",
+    "id": 1557790982610
   }
 ]
-
