@@ -25,5 +25,23 @@
     "email": "hasnaa@orange.fr",
     "major": "BAT",
     "id": 1557790982610
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Durand",
+    "username": "Emma",
+    "password": "0",
+    "email": "emma@orange.fr",
+    "major": "BAT",
+    "id": 1557815804497
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Descombes",
+    "username": "Robin",
+    "password": "0",
+    "email": "robin@orange.fr",
+    "major": "ELEC",
+    "id": 1557816059714
   }
 ]
