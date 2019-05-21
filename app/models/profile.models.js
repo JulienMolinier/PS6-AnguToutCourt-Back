@@ -14,4 +14,6 @@ module.exports = new BaseModel('Profile', {
     .required(),
   major: Joi.string()
     .required(),
+  isAdmin: Joi.boolean()
+    .required(),
 });

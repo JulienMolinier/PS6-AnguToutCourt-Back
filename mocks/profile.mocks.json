@@ -6,7 +6,8 @@
     "id": 1553765315631,
     "username": "JulienM",
     "email": "julien@orange.fr",
-    "major": "SI"
+    "major": "SI",
+    "isAdmin": false
   },
   {
     "firstName": "Maxime",
@@ -15,7 +16,8 @@
     "password": "maxime",
     "email": "maxime@orange.fr",
     "major": "SI",
-    "id": 1557790630091
+    "id": 1557790630091,
+    "isAdmin": false
   },
   {
     "firstName": "Hasnaa",
@@ -24,7 +26,8 @@
     "password": "hasnaa",
     "email": "hasnaa@orange.fr",
     "major": "BAT",
-    "id": 1557790982610
+    "id": 1557790982610,
+    "isAdmin": false
   },
   {
     "firstName": "Emma",
@@ -33,7 +36,8 @@
     "password": "0",
     "email": "emma@orange.fr",
     "major": "BAT",
-    "id": 1557815804497
+    "id": 1557815804497,
+    "isAdmin": false
   },
   {
     "firstName": "Robin",
@@ -42,6 +46,17 @@
     "password": "0",
     "email": "robin@orange.fr",
     "major": "ELEC",
-    "id": 1557816059714
+    "id": 1557816059714,
+    "isAdmin": false
+  },
+  {
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "username": "admin",
+    "password": "admin",
+    "email": "admin@orange.fr",
+    "major": "ADMIN",
+    "id": 1557816059718,
+    "isAdmin": true
   }
 ]

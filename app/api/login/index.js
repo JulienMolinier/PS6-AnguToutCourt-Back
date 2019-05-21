@@ -12,7 +12,7 @@ function loginAction(req, res) {
     console.log(">> login : " + username + ", " + password);
     const user = validate(username, password);
     console.log((">> user : " + user))
-    if (user == undefined) {
+    if (user === undefined) {
       res.status(401).json({result : "Utilisateur ou mot de passe non valide"});
     }
     else {
@@ -30,7 +30,8 @@ function loginAction(req, res) {
               id : user.id,
               firstName : user.firstName,
               lastName : user.lastName,
-              email : user.email
+              email : user.email,
+              isAdmin: user.isAdmin
             },
             token : token
           });
@@ -42,7 +43,7 @@ function loginAction(req, res) {
 
 function validate(username, password) {
   const user = profile.getByKey("username", username);
-  if (user == undefined) {
+  if (user === undefined) {
     return undefined;
   }
   if (user.password === password) {
