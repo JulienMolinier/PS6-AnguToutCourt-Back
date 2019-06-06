@@ -22,9 +22,20 @@ router.get('/', (req, res) => {
   try {
     if (req.query.q) {
       res.status(200).json(Review.search(req.query.q).map(review => attach(review)));
+    }else if (req.query.major) {
+      if(req.query.verified){
+        res.status(200).json(Review.get().map(review => attach(review))
+          .filter(review => review.profile.major === req.query.major && review.verified.toString() === req.query.verified));
+      } else {
+        res.status(200).json(Review.get().map(review => attach(review)).filter(review => review.profile.major === req.query.major));
+      }
     } else {
-      res.status(200).json(Review.get()
-        .map(review => attach(review)));
+      if(req.query.verified){
+        res.status(200).json(Review.get().map(review => attach(review)).filter(review => review.verified.toString() === req.query.verified));
+      }else{
+        res.status(200).json(Review.get().map(review => attach(review)));
+      }
+
     }
   } catch (err) {
     res.status(500).json(err);
@@ -59,7 +70,7 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
   try {
-    res.status(200).json(Profile.update(req.params.id, req.body));
+    res.status(200).json(Review.update(req.params.id, req.body));
   } catch (err) {
     if (err.name === 'NotFoundError') {
       res.status(404).end();
@@ -73,7 +84,7 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   try {
-    Profile.delete(req.params.id);
+    Review.delete(req.params.id);
     res.status(204).end();
   } catch (err) {
     if (err.name === 'NotFoundError') {

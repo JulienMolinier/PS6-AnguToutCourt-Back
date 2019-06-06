@@ -12,4 +12,6 @@ module.exports = new BaseModel('Review', {
     .required(),
   Date: Joi.date()
     .required(),
+  verified: Joi.boolean()
+    .required(),
 });

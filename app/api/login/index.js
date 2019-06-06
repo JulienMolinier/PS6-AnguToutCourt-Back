@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const profile = require('../../models/profile.models')
+const profile = require('../../models/profile.models');
 const jwtServices = require('../../utils/jwt-services');
 
 const router = new Router();
