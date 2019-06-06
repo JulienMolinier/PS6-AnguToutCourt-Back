@@ -45,6 +45,6 @@ module.exports = new BaseModel('University', {
     .required(),
   link: Joi.string()
     .required(),
-  lifecost: Joi.number(),
+  lifecost: Joi.number().required(),
 
 });

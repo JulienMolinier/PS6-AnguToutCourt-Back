@@ -25,8 +25,10 @@
       "./assets/images/stockholmImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2033.2505467448827!2d18.057348200952276!3d59.36215727911426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554898130620!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
-    "contacts": ["Julien Molinier, SI4 : julien.molinier@gmail.com"],
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": [
+      "Julien Molinier, SI4 : julien.molinier@gmail.com"
+    ],
     "recommended": true,
     "major": [
       "SI",
@@ -44,26 +46,29 @@
     "lifecost": 400,
     "placesNumber": 4,
     "description": "L’université de Linköping, à Liu, mène des recherches de calibre mondial dans des domaines qui comprennent la science des matériaux, les sciences informatiques et l’audition. Dans le même esprit, l’université offre de nombreux programmes éducatifs innovants, souvent avec une orientation professionnelle claire et menant à la qualification comme, par exemple, les médecins, les enseignants, les économistes et les ingénieurs.Nous accueillons environ 1000 étudiants par an de nos universités partenaires, nous offrons des un cours de qualification intense en suédois pour les étudiants qui visent à étudier au niveau universitaire en suédois et nos étudiants de doctorat sont des employés rémunérés à Liu.",
-    "nbReviews": 2,
+    "nbReviews": 4,
     "nbOldExp": 16,
     "rates": [
       5,
-      4
+      4,
+      3,
+      3
     ],
     "semester": [
       1,
       2
     ],
-    "rate": 4.5,
-    "lifecost": 400,
+    "rate": 3.75,
     "campusDesc": "Trois de nos quatre campus offrent des programmes et des cours internationaux, deux sont situés à Linköping et un à Norrköping. Il y a un bus gratuit entre les campus.",
     "campusImgs": [
       "./assets/images/linkopingImg1.jpg",
       "./assets/images/linkopingImg2.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2090.761065450508!2d15.575803350570888!3d58.397428776451804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1554931682120!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
-    "contacts": ["Maxime Leras, SI4 : leras.maxime@gmail.com"],
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "contacts": [
+      "Maxime Leras, SI4 : leras.maxime@gmail.com"
+    ],
     "recommended": true,
     "major": [
       "SI"
@@ -78,7 +83,7 @@
     "city": "Berne",
     "program": "ERASMUS",
     "placesNumber": 6,
-    "lifecost": 450,
+    "lifecost": 400,
     "description": "L’Université de Berne est située dans la ville de Berne, capitale de la Suisse. Université traditionnelle complète, elle propose une large offre de filières d’études dans huit facultés et près de 150 instituts. Sa situation géographie centrale, la qualité de vie parmi les plus élevées au monde dans la ville de Berne2 et les cursus proposés contribuent à l’attractivité de cette université.",
     "nbReviews": 3,
     "nbOldExp": 24,
@@ -97,13 +102,12 @@
       "./assets/images/berne.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1619.4460950488633!2d7.436763318135817!3d46.95043411496677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271066121!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger ",
     "contacts": [
       "Julie Molinier, ELEC5 : julie.molinier@gmail.com",
       "Maxence Leras, BAT4 : leras.maxence@gmail.com"
     ],
     "recommended": false,
-    "lifecost": 400,
     "major": [
       "SI",
       "ELEC"
@@ -135,8 +139,10 @@
       "./assets/images/ukraine.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2564.342166660686!2d36.2271695766177!3d50.00494161855366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271376723!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger",
-    "contacts": ["Youssef Mekouar, ELEC4 : mekouar.youssef@gmail.com"],
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letranger",
+    "contacts": [
+      "Youssef Mekouar, ELEC4 : mekouar.youssef@gmail.com"
+    ],
     "recommended": true,
     "major": [
       "SI",
@@ -175,8 +181,10 @@
       "./assets/images/lisbonne.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12445.926203680638!2d-9.158245!3d38.7526578!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271427718!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
-    "contacts": ["Hasnaa Elalaoui, MAM4 : elalaoui.hasnaa@gmail.com"],
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": [
+      "Hasnaa Elalaoui, MAM4 : elalaoui.hasnaa@gmail.com"
+    ],
     "recommended": false,
     "major": [
       "MAM",
@@ -214,8 +222,10 @@
       "./assets/images/bangkok.jpg"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d10945.930859357806!2d100.61400003426876!3d14.078891121844052!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271672951!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
-    "contacts": ["Bruno Lambert, GE4 : bruno.lambert@gmail.com"],
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": [
+      "Bruno Lambert, GE4 : bruno.lambert@gmail.com"
+    ],
     "recommended": true,
     "major": [
       "SI",
@@ -252,8 +262,10 @@
       "./assets/images/norvege2.png"
     ],
     "location": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2524.746697669446!2d10.401143190132627!3d63.41946199300997!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1555271725195!5m2!1sfr!2sfr",
-    "inscriptionDesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
-    "contacts": ["Louis Julien, SI4: louis.julien@gmail.com "],
+    "inscriptiondesc": "L'inscription pour effectuer un semestre d'échange se fait sur ce site : http://unice.fr/polytechnice/fr/international/etudes-a-letranger/partir-a-letrange",
+    "contacts": [
+      "Louis Julien, SI4: louis.julien@gmail.com "
+    ],
     "recommended": true,
     "major": [
       "SI",
