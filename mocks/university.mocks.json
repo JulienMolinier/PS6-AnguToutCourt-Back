@@ -46,11 +46,12 @@
     "lifecost": 400,
     "placesNumber": 4,
     "description": "L’université de Linköping, à Liu, mène des recherches de calibre mondial dans des domaines qui comprennent la science des matériaux, les sciences informatiques et l’audition. Dans le même esprit, l’université offre de nombreux programmes éducatifs innovants, souvent avec une orientation professionnelle claire et menant à la qualification comme, par exemple, les médecins, les enseignants, les économistes et les ingénieurs.Nous accueillons environ 1000 étudiants par an de nos universités partenaires, nous offrons des un cours de qualification intense en suédois pour les étudiants qui visent à étudier au niveau universitaire en suédois et nos étudiants de doctorat sont des employés rémunérés à Liu.",
-    "nbReviews": 4,
+    "nbReviews": 5,
     "nbOldExp": 16,
     "rates": [
       5,
       4,
+      3,
       3,
       3
     ],
@@ -58,7 +59,7 @@
       1,
       2
     ],
-    "rate": 3.75,
+    "rate": 3.6,
     "campusDesc": "Trois de nos quatre campus offrent des programmes et des cours internationaux, deux sont situés à Linköping et un à Norrköping. Il y a un bus gratuit entre les campus.",
     "campusImgs": [
       "./assets/images/linkopingImg1.jpg",
@@ -123,10 +124,18 @@
     "program": "ERASMUS",
     "placesNumber": 3,
     "description": "L'Université de Kharkiv est l'une des universités les plus vieilles de l'Europe de l'Est. Elle comprend 16 universités au total, chacune spécialisée dans un domaine précis(biologie, économie, mathématiques, physique...), ainsi que des centres de recherche.Une expérience de quinze ans de notre université nous permet d'accomplir nos devoirs d'une façon professionnelle et de prêter toute assistance aux étudiants étrangers dès leur arrivée en Ukraine jusqu'à l'obtention d'un diplôme.",
-    "nbReviews": 1,
+    "nbReviews": 9,
     "lifecost": 200,
     "nbOldExp": 10,
     "rates": [
+      3,
+      2,
+      2,
+      5,
+      2,
+      2,
+      3,
+      5,
       3
     ],
     "semester": [

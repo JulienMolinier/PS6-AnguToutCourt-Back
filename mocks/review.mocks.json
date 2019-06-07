@@ -14,7 +14,7 @@
     "Description": "c'est magnifique",
     "email": "julienmolinier@orange.fr",
     "Date": "2019-04-17T19:30:29.784Z",
-    "verified": true,
+    "verified": false,
     "id": 1555529429816
   },
   {
@@ -32,7 +32,7 @@
     "Description": "Mon semestre en Ukraine a été très instructif et m'a permis d'acquérir des connaissances à la fois dans le domaine du Bâtiment mais aussi de m'améliorer en Anglais. L'hiver a été bien plus rude que je le pensais avec des températures très basses.",
     "email": "hasnaa_283@hotmail.com",
     "Date": "2019-05-13T23:48:32.958Z",
-    "verified": true,
+    "verified": false,
     "id": 1557791312989
   },
   {
@@ -43,158 +43,5 @@
     "Date": "2019-05-13T23:48:32.958Z",
     "verified": true,
     "id": 1559807604513
-  },
-  {
-    "universityId": 5152158980,
-    "Rate": 4,
-    "Description": "CE SEMESTRE",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:14:23.885Z",
-    "verified": true,
-    "id": 1559837663901
-  },
-  {
-    "universityId": 5152158980,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:15:03.890Z",
-    "verified": true,
-    "id": 1559837703905
-  },
-  {
-    "universityId": 5152158977,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:15:12.336Z",
-    "verified": true,
-    "id": 1559837712349
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:15:15.508Z",
-    "verified": true,
-    "id": 1559837715513
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:15:35.282Z",
-    "verified": true,
-    "id": 1559837735295
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:19:27.871Z",
-    "verified": true,
-    "id": 1559837967904
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:19:30.859Z",
-    "verified": false,
-    "id": 1559837970864
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:19:31.414Z",
-    "verified": false,
-    "id": 1559837971418
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:20:39.812Z",
-    "verified": false,
-    "id": 1559838039845
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:22:47.343Z",
-    "verified": false,
-    "id": 1559838167358
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:23:55.869Z",
-    "verified": false,
-    "id": 1559838235917
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:24:06.591Z",
-    "verified": false,
-    "id": 1559838246628
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:36:15.573Z",
-    "verified": false,
-    "id": 1559838975605
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:36:18.141Z",
-    "verified": false,
-    "id": 1559838978145
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:37:48.416Z",
-    "verified": false,
-    "id": 1559839068463
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:40:19.076Z",
-    "verified": false,
-    "id": 1559839219089
-  },
-  {
-    "universityId": 5152158978,
-    "Rate": 3,
-    "Description": "Ce semestre",
-    "email": "emma@orange.fr",
-    "Date": "2019-06-06T16:41:20.758Z",
-    "verified": false,
-    "id": 1559839280790
   }
 ]
