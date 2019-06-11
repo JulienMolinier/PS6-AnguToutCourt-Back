@@ -5,7 +5,7 @@
     "Description": "super semestre 2",
     "email": "julienmolinier@orange.fr",
     "Date": "2019-04-07T13:18:01.513Z",
-    "verified": false,
+    "verified": true,
     "id": 1554643081520
   },
   {
@@ -14,17 +14,8 @@
     "Description": "c'est magnifique",
     "email": "julienmolinier@orange.fr",
     "Date": "2019-04-17T19:30:29.784Z",
-    "verified": false,
+    "verified": true,
     "id": 1555529429816
-  },
-  {
-    "universityId": 5152158979,
-    "Rate": 2,
-    "Description": "Ce semestre n'a pas répondu à mes attentes. Les cours ne correspondaient pas à ce que je souhaite faire et il y avait une mauvaise entente au sein du groupe d'étudiants. Heureusement l'environnement autour de l'université était magnifique et les sorties possibles étaient nombreuses.",
-    "email": "maxime.leras@live.fr",
-    "Date": "2019-05-13T23:41:45.274Z",
-    "verified": false,
-    "id": 1557790905306
   },
   {
     "universityId": 5152158980,
@@ -32,7 +23,7 @@
     "Description": "Mon semestre en Ukraine a été très instructif et m'a permis d'acquérir des connaissances à la fois dans le domaine du Bâtiment mais aussi de m'améliorer en Anglais. L'hiver a été bien plus rude que je le pensais avec des températures très basses.",
     "email": "hasnaa_283@hotmail.com",
     "Date": "2019-05-13T23:48:32.958Z",
-    "verified": false,
+    "verified": true,
     "id": 1557791312989
   },
   {
@@ -43,5 +34,23 @@
     "Date": "2019-05-13T23:48:32.958Z",
     "verified": true,
     "id": 1559807604513
+  },
+  {
+    "universityId": 5152158980,
+    "Rate": 2,
+    "Description": "Nouvel avis",
+    "email": "maxime.leras@live.fr",
+    "Date": "2019-06-07T08:27:54.799Z",
+    "verified": true,
+    "id": 1559896074822
+  },
+  {
+    "universityId": 5152158980,
+    "Rate": 5,
+    "Description": "Nouvel avis",
+    "email": "maxime.leras@live.fr",
+    "Date": "2019-06-07T15:34:45.787Z",
+    "verified": false,
+    "id": 1559921685872
   }
 ]

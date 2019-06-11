@@ -8,17 +8,21 @@
     "program": "ERASMUS",
     "placesNumber": 3,
     "description": "L’université de Stockholm est une université publique, à Stockholm en Suède.Elle a été fondée en 1878 et compte environ 70 000 étudiants se répartissant dans 4 facultés. L'année universitaire suédoise est divisée en deux semestres : l’un commence fin janvier et se termine début juin et l’autre commence fin août et se termine fin janvier.\nLes 80 départements et centres de l'université proposent plus de 70 programmes de maîtrise dispensés en anglais, ainsi qu’un grand nombre d'autres cours pour des formations plus courtes.\nL'université offre un environnement d'études sûr dans le contexte d'une des capitales les plus dynamiques de l'Europe, ce qui en fait un choix excellent pour les étudiants étrangers venant du monde entier.\n",
-    "nbReviews": 1,
+    "nbReviews": 5,
     "nbOldExp": 18,
     "lifecost": 400,
     "rates": [
-      4
+      4,
+      3,
+      4,
+      4,
+      3
     ],
     "semester": [
       1,
       2
     ],
-    "rate": 4,
+    "rate": 3.6,
     "campusDesc": "La plupart des activités d’enseignement et de recherche à l’Université de Stockholm se déroulent dans la région de Frescati, juste au nord de Stockholm, qui s’étend du Jardin botanique de Bergius au nord à Sveaplan au sud. Il est situé au milieu du premier parc urbain national du monde, et la région est caractérisée par une belle nature, l’architecture intéressante et l’art moderne.",
     "campusImgs": [
       "./assets/images/stockholmImg1.jpg",
@@ -46,20 +50,23 @@
     "lifecost": 400,
     "placesNumber": 4,
     "description": "L’université de Linköping, à Liu, mène des recherches de calibre mondial dans des domaines qui comprennent la science des matériaux, les sciences informatiques et l’audition. Dans le même esprit, l’université offre de nombreux programmes éducatifs innovants, souvent avec une orientation professionnelle claire et menant à la qualification comme, par exemple, les médecins, les enseignants, les économistes et les ingénieurs.Nous accueillons environ 1000 étudiants par an de nos universités partenaires, nous offrons des un cours de qualification intense en suédois pour les étudiants qui visent à étudier au niveau universitaire en suédois et nos étudiants de doctorat sont des employés rémunérés à Liu.",
-    "nbReviews": 5,
+    "nbReviews": 8,
     "nbOldExp": 16,
     "rates": [
       5,
       4,
       3,
       3,
-      3
+      3,
+      3,
+      3,
+      4
     ],
     "semester": [
       1,
       2
     ],
-    "rate": 3.6,
+    "rate": 3.5,
     "campusDesc": "Trois de nos quatre campus offrent des programmes et des cours internationaux, deux sont situés à Linköping et un à Norrköping. Il y a un bus gratuit entre les campus.",
     "campusImgs": [
       "./assets/images/linkopingImg1.jpg",
@@ -86,17 +93,18 @@
     "placesNumber": 6,
     "lifecost": 400,
     "description": "L’Université de Berne est située dans la ville de Berne, capitale de la Suisse. Université traditionnelle complète, elle propose une large offre de filières d’études dans huit facultés et près de 150 instituts. Sa situation géographie centrale, la qualité de vie parmi les plus élevées au monde dans la ville de Berne2 et les cursus proposés contribuent à l’attractivité de cette université.",
-    "nbReviews": 3,
+    "nbReviews": 4,
     "nbOldExp": 24,
     "rates": [
       2,
       5,
-      4
+      4,
+      3
     ],
     "semester": [
       2
     ],
-    "rate": 3.7,
+    "rate": 3.5,
     "campusDesc": "On trouve à Berne diverses résidences estudiantines qui proposent des chambres et des studios à louer. Pour plus d'information, veuillez vous rediriger vers le site: https://www.unibe.ch/universite/campus_et_infrastructures/habiter_et_vivre/hbergement__logis/index_fra.html",
     "campusImgs": [
       "./assets/images/Suisse.jpg",
@@ -124,7 +132,7 @@
     "program": "ERASMUS",
     "placesNumber": 3,
     "description": "L'Université de Kharkiv est l'une des universités les plus vieilles de l'Europe de l'Est. Elle comprend 16 universités au total, chacune spécialisée dans un domaine précis(biologie, économie, mathématiques, physique...), ainsi que des centres de recherche.Une expérience de quinze ans de notre université nous permet d'accomplir nos devoirs d'une façon professionnelle et de prêter toute assistance aux étudiants étrangers dès leur arrivée en Ukraine jusqu'à l'obtention d'un diplôme.",
-    "nbReviews": 9,
+    "nbReviews": 11,
     "lifecost": 200,
     "nbOldExp": 10,
     "rates": [
@@ -136,12 +144,14 @@
       2,
       3,
       5,
-      3
+      3,
+      2,
+      5
     ],
     "semester": [
       1
     ],
-    "rate": 3,
+    "rate": 3.090909090909091,
     "campusDesc": "Nous sommes prêts à vous offrir tous les services liés avec votre séjours d'études: assistance à l'obtention des visas/ accueil à l'aéroport/ acheminement à Kharkiv/ hébergement au foyer/ rédaction des documents/ assurance maladie/ assistance pendant les études/ traduction des documnets;.",
     "campusImgs": [
       "./assets/images/ukraine2.jpg",
