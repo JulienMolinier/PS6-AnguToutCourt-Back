@@ -9,15 +9,6 @@
     "id": 1554643081520
   },
   {
-    "universityId": 5152158977,
-    "Rate": 4,
-    "Description": "c'est magnifique",
-    "email": "julienmolinier@orange.fr",
-    "Date": "2019-04-17T19:30:29.784Z",
-    "verified": true,
-    "id": 1555529429816
-  },
-  {
     "universityId": 5152158980,
     "Rate": 5,
     "Description": "Mon semestre en Ukraine a été très instructif et m'a permis d'acquérir des connaissances à la fois dans le domaine du Bâtiment mais aussi de m'améliorer en Anglais. L'hiver a été bien plus rude que je le pensais avec des températures très basses.",
@@ -25,15 +16,6 @@
     "Date": "2019-05-13T23:48:32.958Z",
     "verified": true,
     "id": 1557791312989
-  },
-  {
-    "universityId": 5152158980,
-    "Rate": 0,
-    "Description": "Incroyable semestre",
-    "email": "hasnaa_283@hotmail.com",
-    "Date": "2019-05-13T23:48:32.958Z",
-    "verified": true,
-    "id": 1559807604513
   },
   {
     "universityId": 5152158980,
